@@ -1,0 +1,5 @@
+BASE_URL = 'http://127.0.0.1:8000/'
+DEVEL = True
+DEBUG = True
+ALLOWED_HOSTS =[]
+
